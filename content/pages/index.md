@@ -738,4 +738,6 @@ sections:
     type: GenericSection
 type: PageLayout
 isDraft: false
+seo:
+  type: Seo
 ---
